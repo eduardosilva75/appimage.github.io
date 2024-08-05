@@ -3,7 +3,7 @@ id: myapp
 name: Euromillions
 version: 1.0.0
 description: >
-  MyApp is a utility application that provides various features and functionalities.
+  MyApp application is designed to generate multiple Euromillions numbers.
 license: MIT
 authors:
   - name: Eduardo Silva
