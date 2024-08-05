@@ -1,6 +1,6 @@
 ﻿# Metadata for MyApp AppImage
 id: myapp
-name: Euromillions
+name: euromillions
 version: 1.0.0
 description: >
   Euromillions is a utility application that provides various functionalities for generating multiple Euromillions numbers.
