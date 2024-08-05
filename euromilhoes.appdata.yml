@@ -16,6 +16,6 @@ url: https://eduardonobresilva.wordpress.com/
 release:
   description: "Initial release of euromilhoes as AppImage"
   date: 2024-08-01
-  url: https://github.com/eduardosilva75/appimage.github.io/releases/tag/euromilhoes
-  size: 8652800 # Size in bytes (8.65 MB in this example)
+  url: https://github.com/eduardosilva75/appimage.github.io/releases/download/euromilhoes/euromilhoes-x86_64.AppImage
+  size: 8652800 # Size in bytes (8.65 MB in this example
   hash: SHA256: 1cae519ecb9be89eb511da7e6c01594b027b58dc2847ec14da539d7260d6c6f9
