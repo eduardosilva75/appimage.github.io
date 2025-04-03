@@ -1,10 +1,10 @@
 ﻿# Metadata for MyApp AppImage
 id: myapp
 name: euromillions
-version: 1.0.0
+version: 5.0.0
 description: >
   Euromillions is a utility application that provides various functionalities for generating multiple Euromillions numbers.
-license: MIT
+license: Flutter
 authors:
   - name: Eduardo Silva
     email: eduardonobresilva@protonmail.com
@@ -15,7 +15,7 @@ icon: myapp
 url: https://eduardonobresilva.wordpress.com/
 release:
   description: "Lançamento inicial do Euromillions como AppImage"
-  date: 2024-08-01
-  url: https://github.com/eduardosilva75/appimage.github.io/releases/download/euromilhoes/euromilhoes-x86_64.AppImage
+  date: 2025-04-03
+  url: https://github.com/eduardosilva75/appimage.github.io/releases/download/Euromillions/Euromilhoes-x86_64.AppImage
   size: 8652800 # Size in bytes (8.65 MB in this example)
   hash: SHA256: 1cae519ecb9be89eb511da7e6c01594b027b58dc2847ec14da539d7260d6c6f9
